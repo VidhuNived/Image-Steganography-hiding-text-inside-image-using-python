@@ -25,3 +25,6 @@ pip is python package installer, it must be install first although its preinstal
 orginal_image is the carrier image.
 
 encrypted_image is the carrier image with hidden data, also this is the image which we transmit via network.
+
+
+Here program encoder is ran, and the user is asked enter the message that is to be transmitted and at reciver's end decoder program will print the hidden message to the user's terminal. 
